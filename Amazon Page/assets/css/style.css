@@ -136,6 +136,7 @@ main {
   margin-top: 1vh;
   text-align: center;
   height: 55vh;
+  padding-left: 1%;
 }
 
 .image-container .column-image {
